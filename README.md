@@ -20,7 +20,7 @@ A simple Python tool to download YouTube shorts videos using yt-dlp.
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/youtube-shorts-downloader.git
+git clone https://github.com/Romingsquare/youtube-video-downloader.git
 cd youtube-shorts-downloader
 ```
 
